@@ -1,0 +1,10 @@
+{
+  "CA": [
+    {"name": "Student Loan Assistance", "eligible": "Employed, Degree Holders", "type": "Federal"},
+    {"name": "CalHFA Housing Program", "eligible": "First-time buyers", "type": "State"}
+  ],
+  "NY": [
+    {"name": "Public Service Loan Forgiveness", "eligible": "Nonprofit or gov workers", "type": "Federal"},
+    {"name": "NY State Rent Credit", "eligible": "Low-income renters", "type": "State"}
+  ]
+}
